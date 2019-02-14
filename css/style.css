@@ -1,0 +1,100 @@
+body 
+{ 
+  background-color: #5e6496; 
+  font-family: "impact"; 
+  color: #1f3287; 
+  text-align: center; 
+  width: 800px; 
+  margin-left:auto; 
+  margin-right:auto;
+}
+
+h3 {
+background-color: #102063;
+font-size: 250%;
+color:#932525;
+}
+
+  
+
+.meagan{
+display:block;
+width: 300px;
+margin-left: auto;
+margin-right: auto;
+  }
+
+.meagan:hover{
+  transform: scale(1.4);
+  }
+
+.meaganadvice{
+  border: 30px solid #932525;
+}
+
+.ian{ 
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  height:250px;
+  border-radius: 150px;
+}
+
+.ian:hover{
+  transform:scale(1.4);
+}
+
+.mike{
+ display:block;
+ margin-left:auto;
+ margin-right:auto;
+}
+
+.mike:hover{
+  transform:scale(1.4);
+}
+
+.holidayworkout{ 
+ border: 30px solid #932525;
+  }
+
+ul { 
+  text-align: left; 
+  border: 2px solid black;
+  outline: #932525 solid 5px;
+   width: 300px;
+  margin-left: auto; 
+  margin-right: auto;
+  background-color:#616da0;
+}
+
+ul:hover{
+ transform:scale(1.6);
+}
+
+.jessica { 
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: 250px;
+  border-radius: 500px;
+}
+
+.jessica:hover{
+  transform:scale(1.4);
+}
+
+.cargonet { 
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: 250px;
+  border-radius: 500px;
+}
+
+.cargonet:hover{
+  transform:scale(1.4);
+}
